@@ -531,6 +531,11 @@ footer {
     z-index: -4;
     display: none;
 }
+.nav-sect {
+    position: fixed;
+    width: 100%;
+    background-color: white;
+}
 @media (max-width: 1600px) {
     div.list {
         display: none;
