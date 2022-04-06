@@ -558,7 +558,7 @@ footer {
         background-color: hsl(229, 31%, 21%);
         position: absolute;
         width: 100%;
-        top: -5px;
+        top: 65px;
         padding: 20px;
         z-index: 5;
         display: none;
