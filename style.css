@@ -535,6 +535,7 @@ footer {
     position: fixed;
     width: 100%;
     background-color: white;
+    z-index: 5;
 }
 @media (max-width: 1600px) {
     div.list {
